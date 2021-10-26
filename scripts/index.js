@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'May 18, 2021',
+  birthdate: 'October 27, 2021',
   name: 'M Farid Hamdan'
 }; 
 
